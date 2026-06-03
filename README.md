@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedBER&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBER&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedBER&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBER&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </p>
 
 ---
@@ -66,5 +66,13 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammedBER&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedBER&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammedBER&theme=tokyonight"/>
 </p>
