@@ -57,8 +57,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedBER&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBER&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammedBER&theme=tokyonight"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammedBER&theme=tokyonight&utcOffset=1"/>
 </p>
 
 ---
