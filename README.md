@@ -1,78 +1,66 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Mohamed Berhaila</h1>
-<h3 align="center">Full Stack Engineer · ML Enthusiast · Clean Code Advocate</h3>
+<h2 align="center">Hello There 👋, I'm Mohamed Berhaila</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A960EE&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;ML+%26+AI+Builder;Cloud+%26+DevOps+Enthusiast;Clean+Code+%7C+Real+Impact;Based+in+Casablanca+Morocco+🇲🇦" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <p align="center">
-  <a href="mailto:berhailamohamed0@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/mohamed-berhaila">💼 LinkedIn</a> •
-  <a href="https://berhaila.com">🌐 Portfolio</a>
+  <a href="mailto:berhailamohamed0@gmail.com"><img src="https://img.shields.io/badge/-berhailamohamed0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohamed-berhaila"><img src="https://img.shields.io/badge/-mohamed--berhaila-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://berhaila.com"><img src="https://img.shields.io/badge/-berhaila.com-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **full stack & ML projects**
-- 🌱 I'm always learning — right now exploring **Deep Learning & Cloud Architecture**
-- 💡 I love building **clean, scalable, production-ready** applications
-- 🤝 Open to **new opportunities** and **open source collaborations**
-- ⚡ Fun fact: I write tests before I write bugs 😄
+Software Engineering student passionate about building real-world applications from full stack web platforms to AI-powered systems.
+Currently open to new opportunities where I can grow, contribute, and make an impact. 🚀
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 My Profile at a Glance
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**ML / AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+<table>
+  <tr>
+    <td>🎯 <strong>Role</strong></td>
+    <td>Full Stack Engineer</td>
+    <td>🌍 <strong>Location</strong></td>
+    <td>Casablanca, Morocco</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Web</strong></td>
+    <td>React · Angular · Spring Boot · Laravel · FastAPI</td>
+    <td>🤖 <strong>AI / ML</strong></td>
+    <td>TensorFlow · Keras · scikit-learn · OpenCV</td>
+  </tr>
+  <tr>
+    <td>🗄️ <strong>Databases</strong></td>
+    <td>MySQL · PostgreSQL · MongoDB</td>
+    <td>⚙️ <strong>DevOps</strong></td>
+    <td>Docker · AWS · GitHub Actions · Linux</td>
+  </tr>
+  <tr>
+    <td>🧪 <strong>Testing</strong></td>
+    <td>JUnit · Cypress · SonarQube</td>
+    <td>✅ <strong>Status</strong></td>
+    <td>Open to opportunities 🚀</td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammedBER&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammedBER&theme=tokyonight&utcOffset=1"/>
 </p>
 
 ---
-
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedBER&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
----
-
-### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammedBER&theme=tokyonight"/>
